@@ -1,5 +1,5 @@
-a = input("Enter the fist value")
-b = input("Enter the second value")
+a = input("Enter the Fist Value")
+b = input("Enter the Second Value")
 sum = int(a)+ int(b)
 print(f"The sum of two number is = {sum}")
 
